@@ -1,2 +1,2 @@
 # Survive_Shooter
-just a small game a made last summer
+just a small game I made last summer
