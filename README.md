@@ -1,2 +1,2 @@
 # Survive_Shooter
-just a small game I made last summer
+To run it install pygame and run the python file with python 3
