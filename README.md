@@ -1,2 +1,4 @@
 # Survive_Shooter
-To run it install pygame and run the python file with python 3
+##How To Run
+### ** *pip* install pygame **
+### ** *python* game.py **
